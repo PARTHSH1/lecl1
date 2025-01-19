@@ -206,7 +206,7 @@ tokenizers==0.20.3
 toml==0.10.2
 tomli==2.1.0
 torch==2.5.1
-gunicorn==20.0.1
+gunicorn==20.1.0
 tqdm==4.67.0
 
 transformers==4.46.3
